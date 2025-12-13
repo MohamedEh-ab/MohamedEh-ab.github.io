@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/job-search/job_search.jpeg
+image: img/job-search/job_search_icon.jpg
 title: "Job-Search"
 date: 2025
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "a Dynamic web app for job searching built via Flask developed as assignment for CSD342"
 ---
 
-<img class="img-fluid" src="../img/job-search/job_search.jpeg">
+<img class="img-fluid" src="../img/job-search/job_search_icon.jpg">
 
 [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eac9d039-626b-4138-94b1-743bc1c600e4" />](https://github.com/MohamedEh-ab/job-search)
 
