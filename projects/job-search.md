@@ -11,9 +11,9 @@ labels:
 summary: "a Dynamic web app for job searching built via Flask developed as assignment for CSD342"
 ---
 
-<img class="img-fluid" src="../img/job_search_icon.jpg">
+<img class="img-fluid" src="../img/job_search_icon.jpg" style="width: 150px; height: 150px; border-radius: 100%; object-fit: cover;">
 
-[<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eac9d039-626b-4138-94b1-743bc1c600e4" />](https://github.com/MohamedEh-ab/job-search)
+[<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eac9d039-626b-4138-94b1-743bc1c600e4" />](https://github.com/MohamedEh-ab/job-search) Github Repo(Click on Icon)
 
 Job-Search is a web application that I created as assignment in CSD334: __Advanced Programming Languages__ in Dec, 2025. The project helped me learn how to design and implement a responsive web site.
 
