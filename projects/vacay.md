@@ -1,28 +1,29 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/job-search/job_search.jpeg
+title: "Job-Search"
+date: 2025
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Python(Flask, BS4, requests)
+  - HTML
+summary: "a Dynamic web app for job searching built via Flask developed as assignment for CSD342"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/job-search/job_search.jpeg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+[<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eac9d039-626b-4138-94b1-743bc1c600e4" />](https://github.com/MohamedEh-ab/job-search)
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Job-Search is a web application that I created as assignment in CSD334: __Advanced Programming Languages__ in Dec, 2025. The project helped me learn how to design and implement a responsive web site.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Job-Search is implemented using [Flask](https://flask.palletsprojects.com/en/stable/), a Python Library specialised in building web apps. 
 
-Here is some example code to illustrate Simple Schema use:
+Job-Search utilizes Dynamic Web Scraping where user provides the app with the __"title"__ and __"City"__Location of the job. the app then scrapes _Linkedin Jobs_ for relevant and information and display them in HTML Table
+There are 3 Pages total in the project. 'index' page for getting title and city... 'loading' page for loading animation while waiting for scraping to complete ... 'job_table' page for displaying jobs in a table
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+the project proved useful...especially when tried searching using different combination of cities ["new, "new_york", "NYC"] and it returned outputs
+
+future improvements:
+- adding database functionality in the near future
+
