@@ -19,10 +19,11 @@ Job-Search is a web application that I created as assignment in CSD334: __Advanc
 
 Job-Search is implemented using [Flask](https://flask.palletsprojects.com/en/stable/), a Python Library specialised in building web apps. 
 
-Job-Search utilizes Dynamic Web Scraping where user provides the app with the __"title"__ and __"City"__Location of the job. the app then scrapes _Linkedin Jobs_ for relevant and information and display them in HTML Table
+Job-Search utilizes Dynamic Web Scraping where user provides the app with the **title** and **City** Location of the job. the app then scrapes *Linkedin Jobs* for relevant and information and display them in HTML Table
+
 There are 3 Pages total in the project. 'index' page for getting title and city... 'loading' page for loading animation while waiting for scraping to complete ... 'job_table' page for displaying jobs in a table
 
-the project proved useful...especially when tried searching using different combination of cities ["new, "new_york", "NYC"] and it returned outputs
+the project proved useful...especially when tried searching using different combination of cities ("new, "new_york", "NYC") and it returned outputs
 
 future improvements:
 - adding database functionality in the near future
