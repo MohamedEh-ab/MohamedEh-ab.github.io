@@ -6,7 +6,7 @@
     "email": "MohamedEhabBishla@gmail.com",
     "phone": "+201097161559",
     "website": "https://mohamedeh-ab.github.io",
-    "summary": "driven by curiosity and creativity, using multidisciplinary knowledge to spot patterns in any kind of data and applying the right tools to turn challenges into solutions."
+    "summary": "driven by curiosity and creativity, using multidisciplinary knowledge to spot patterns in any kind of data and applying the right tools to turn challenges into solutions.",
     "location": { "address": "", "postalCode": "", "city": "Portsaid, Portfouad", "countryCode": "EG", "region": "Lower Egypt" },
     "profiles": [
       { "network": "github", "username": "mohamedeh-ab", "url": "http://github.com/mohamedeh-ab" },
@@ -53,7 +53,7 @@
         "Maintain, update, and oversee seasonal plan for AI community",
         "Drive, design, deploy and manage student-community AI projects"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -88,7 +88,7 @@
       "date": "2023",
       "awarder": "IEEE Student Branch, SCU",
       "summary": "made a well defined presentation of an AI model solving a business need(Customer segmentation), presenting different data analysis techniques and deep understanding of grounding concepts in ML"
-    },
+    }
   ],
   "references": [
     {
