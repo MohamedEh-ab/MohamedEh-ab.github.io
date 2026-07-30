@@ -2,11 +2,11 @@
   "basics": {
     "name": "Mohamed Ehab Ahmed",
     "label": "Data Scientist",
-    "picture": "img/profile.png",
+    "picture": "https://github.com/MohamedEh-ab/MohamedEh-ab.github.io/blob/main/img/profile.jpeg",
     "email": "MohamedEhabBishla@gmail.com",
     "phone": "+201097161559",
     "website": "https://mohamedeh-ab.github.io",
-    "summary": "driven by curiosity and creativity, using multidisciplinary knowledge to spot patterns in any kind of data and applying the right tools to turn challenges into solutions.",
+    "summary": "Driven by curiosity and creativity, using multidisciplinary knowledge to spot patterns in any kind of data and applying the right tools to turn challenges into solutions.",
     "location": { "address": "", "postalCode": "", "city": "Portsaid, Portfouad", "countryCode": "EG", "region": "Lower Egypt" },
     "profiles": [
       { "network": "github", "username": "mohamedeh-ab", "url": "http://github.com/mohamedeh-ab" },
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "RHEL", "Ubuntu", "Git/GitHub", "g++ compiler architecture"]
+      "keywords": [ "Linux (RHEL, Debian, Ubuntu)", "Git/GitHub", "g++ compiler architecture", "Docker", "Canva", "Excel", "PowerBI", "Word", "PowerPoint"]
     }
   ],
   "education": [
@@ -39,20 +39,46 @@
       "endDate": "Present",
       "courses": ["Computer Architecture", "Introduction to Assembly", "Artificial Intelligence", "Digital Image Processing", "Advanced Programming Languages", "Compiler Design", "Digital Signal Processing", "Network Fundamentals"
       ]
+    },
+      {
+      "institution": "National Telecommunications Institute, EG",
+      "area": "Big Data Analysis",
+      "studyType": "Summer Training",
+      "startDate": "2026-07-05",
+      "endDate": "2026-07-31",
+      "courses": ["Hadoop", "Apache Spark", "Hbase", "Kafka", "Apache Hive", "Flink", "Flume", "Freelancing Basics"]
+      ]
+    },
+    {
+      "institution": "Information Technology Institute, EG",
+      "area": "Data Engineering",
+      "studyType": "Summer Training",
+      "startDate": "2025-07-05",
+      "endDate": "2025-08-05",
+      "courses": ["Linux Adminstration and Bash Scripting", "SQL Fundamentals (MySQL)", "ETL basics"]
+      ]
+    },
+        {
+      "institution": "ALX",
+      "area": "Data Science",
+      "studyType": "Remote Internship",
+      "startDate": "2025-06-05",
+      "endDate": "Present",
+      "courses": ["Professional Foundations(Office Skills, Leadership, Project Management, AGILE)", "Excel Fundamentals", "PowerBI Visualization and Dashboarding", "Introduction to SQL", "Python: NumPy and Pandas", "Machine Learning using Python"]
+      ]
+    },
+    {
+      "institution": "FlyRank.ai",
+      "area": "AI Engineering",
+      "studyType": "Remote Internship",
+      "startDate": "2025-06-05",
+      "endDate": "Present",
+      "courses": ["Python", "Machine Learning"]
+      ]
     }
   ],
-  "work": [
-    {
-      "company": "SCU Microsoft Student Club",
-      "position": "Head of Artificial Intelligence Comittee",
-      "website": "",
-      "startDate": "2024-11-04",
-      "endDate": "Present",
-      "summary": "Supervises Teaching flow of AI sessions and Oversees Projects",
-      "highlights": [
-        "Maintain, update, and oversee seasonal plan for AI community",
-        "Drive, design, deploy and manage student-community AI projects"
-      ]
+  "work": [ {
+      "company" : ""
     }
   ],
   "volunteer": [
@@ -66,6 +92,17 @@
       "highlights": [
         "Writes content for Social Media post explaining tech concepts",
         "Share my experience with different groups of students"
+      ]
+    }, {
+      "organization": "Microsoft Student Club - SCU",
+      "position": "Head of Artificial Intelligence Comittee",
+      "website": "",
+      "startDate": "2024-11-04",
+      "endDate": "2026-03-11",
+      "summary": "Supervises Teaching flow of AI sessions and Oversees Projects",
+      "highlights": [
+        "Maintain, update, and oversee seasonal plan for AI community",
+        "Drive, design, deploy and manage student-community AI projects"
       ]
     },
     {
@@ -87,12 +124,12 @@
       "title": "1st Place - AI Competition",
       "date": "2023",
       "awarder": "IEEE Student Branch, SCU",
-      "summary": "made a well defined presentation of an AI model solving a business need(Customer segmentation), presenting different data analysis techniques and deep understanding of grounding concepts in ML"
+      "summary": "Our project achieved 1st place in the IEEE SCU internal AI competition, competing against three teams, for innovation, teamwork, and presentation excellence. we focused on analyzing, visualizing, and preprocessing 'Online Retail Store' data. Used PCA for dimensionality reduction and K-Means to categorize customers into Loyal, Potential, and Churn groups, enabling effective marketing, sales, and logistics strategies."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
